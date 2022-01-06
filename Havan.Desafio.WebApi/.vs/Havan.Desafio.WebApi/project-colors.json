@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d14c646b-c774-4952-8a65-094d9d96d091": {
+      "ProjectGuid": "d14c646b-c774-4952-8a65-094d9d96d091",
+      "DisplayName": "Havan.Desafio.WebApi",
+      "ColorIndex": 0
+    },
+    "3b229d70-245a-4ae8-884b-1a7e77b9235e": {
+      "ProjectGuid": "3b229d70-245a-4ae8-884b-1a7e77b9235e",
+      "DisplayName": "Havan.Desafio.WebApi",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "981ab6c5-ba9c-470b-88b6-d89e8e602791": {
+      "ProjectGuid": "981ab6c5-ba9c-470b-88b6-d89e8e602791",
+      "DisplayName": "Havan.Desafio.WebApi",
+      "ColorIndex": 2
+    },
+    "cd1e21d2-cc8f-4194-a47f-23e87f7912ef": {
+      "ProjectGuid": "cd1e21d2-cc8f-4194-a47f-23e87f7912ef",
+      "DisplayName": "Havan.Desafio.WebApi",
+      "ColorIndex": 3
+    },
+    "30f95f4e-1902-4247-889b-9ae66026ec64": {
+      "ProjectGuid": "30f95f4e-1902-4247-889b-9ae66026ec64",
+      "DisplayName": "Havan.Desafio.DataAccess",
+      "ColorIndex": 4
+    },
+    "80ec48e7-2ccb-49b0-8242-c21831089310": {
+      "ProjectGuid": "80ec48e7-2ccb-49b0-8242-c21831089310",
+      "DisplayName": "Havan.Desafio.Model",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
