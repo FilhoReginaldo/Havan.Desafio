@@ -1,0 +1,23 @@
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\bin\Debug\net6.0\Havan.Desafio.Model.deps.json
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\bin\Debug\net6.0\Havan.Desafio.Model.dll
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\bin\Debug\net6.0\ref\Havan.Desafio.Model.dll
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\bin\Debug\net6.0\Havan.Desafio.Model.pdb
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.AssemblyInfoInputs.cache
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.AssemblyInfo.cs
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.csproj.CoreCompileInputs.cache
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.dll
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\ref\Havan.Desafio.Model.dll
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.pdb
+C:\Projects\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.csproj.AssemblyReference.cache
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.Model\bin\Debug\net6.0\Havan.Desafio.Model.deps.json
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.Model\bin\Debug\net6.0\Havan.Desafio.Model.dll
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.Model\bin\Debug\net6.0\ref\Havan.Desafio.Model.dll
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.Model\bin\Debug\net6.0\Havan.Desafio.Model.pdb
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.AssemblyInfoInputs.cache
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.AssemblyInfo.cs
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.csproj.CoreCompileInputs.cache
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.dll
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\ref\Havan.Desafio.Model.dll
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.Model\obj\Debug\net6.0\Havan.Desafio.Model.pdb

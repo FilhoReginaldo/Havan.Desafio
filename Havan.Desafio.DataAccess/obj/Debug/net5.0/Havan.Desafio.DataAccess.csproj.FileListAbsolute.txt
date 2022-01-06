@@ -1,0 +1,5 @@
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net5.0\Havan.Desafio.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net5.0\Havan.Desafio.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net5.0\Havan.Desafio.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net5.0\Havan.Desafio.DataAccess.AssemblyInfo.cs
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net5.0\Havan.Desafio.DataAccess.csproj.CoreCompileInputs.cache

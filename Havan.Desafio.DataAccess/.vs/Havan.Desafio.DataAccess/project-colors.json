@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62b8af49-8140-49f6-939b-04aeac15e1a6": {
+      "ProjectGuid": "62b8af49-8140-49f6-939b-04aeac15e1a6",
+      "DisplayName": "Havan.Desafio.DataAccess",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ad4ed3e7-56f4-4fe5-a92d-8646ee0aef54": {
+      "ProjectGuid": "ad4ed3e7-56f4-4fe5-a92d-8646ee0aef54",
+      "DisplayName": "Havan.Desafio.DataAccess",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

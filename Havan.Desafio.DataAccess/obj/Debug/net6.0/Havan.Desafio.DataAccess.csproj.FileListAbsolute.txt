@@ -1,0 +1,24 @@
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\bin\Debug\net6.0\Havan.Desafio.DataAccess.deps.json
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\bin\Debug\net6.0\Havan.Desafio.DataAccess.dll
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\bin\Debug\net6.0\ref\Havan.Desafio.DataAccess.dll
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\bin\Debug\net6.0\Havan.Desafio.DataAccess.pdb
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.AssemblyInfo.cs
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.dll
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\ref\Havan.Desafio.DataAccess.dll
+C:\Projects\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.pdb
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\bin\Debug\net6.0\Havan.Desafio.DataAccess.deps.json
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\bin\Debug\net6.0\Havan.Desafio.DataAccess.dll
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\bin\Debug\net6.0\ref\Havan.Desafio.DataAccess.dll
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\bin\Debug\net6.0\Havan.Desafio.DataAccess.pdb
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.AssemblyInfoInputs.cache
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.AssemblyInfo.cs
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.dll
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\ref\Havan.Desafio.DataAccess.dll
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.pdb
+C:\Users\regjs\OneDrive\Área de Trabalho\Havan.Desafio\Havan.Desafio.DataAccess\obj\Debug\net6.0\Havan.Desafio.DataAccess.csproj.AssemblyReference.cache
